@@ -1,1 +1,2 @@
-script that prints the current patof working directory
+#!/bin/bash
+Display current directory contents in a long format
