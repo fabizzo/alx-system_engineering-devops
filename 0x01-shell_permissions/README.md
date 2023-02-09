@@ -1,2 +1,2 @@
 #!/bin/bash
-script that adds execution permission to the owner, the group owner and the other users, to the file hello
+script that sets the permission to the file hello
